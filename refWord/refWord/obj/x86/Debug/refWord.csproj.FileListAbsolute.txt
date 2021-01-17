@@ -1,0 +1,6 @@
+/home/ushakova/Projects/refWord/refWord/bin/Debug/refWord.exe
+/home/ushakova/Projects/refWord/refWord/bin/Debug/refWord.pdb
+/home/ushakova/Projects/refWord/refWord/obj/x86/Debug/refWord.csprojAssemblyReference.cache
+/home/ushakova/Projects/refWord/refWord/obj/x86/Debug/refWord.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/refWord/refWord/obj/x86/Debug/refWord.exe
+/home/ushakova/Projects/refWord/refWord/obj/x86/Debug/refWord.pdb

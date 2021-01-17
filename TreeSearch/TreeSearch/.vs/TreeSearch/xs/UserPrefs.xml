@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A88E0109-2068-42BC-85F3-D34A03EF0D48}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../LinkedListBest/LinkedListBest/Chain.cs">
+    <Files>
+      <File FileName="TreeNode.cs" Line="26" Column="32" />
+      <File FileName="Tree.cs" Line="19" Column="1" />
+      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="DFS.cs" Line="62" Column="33" />
+      <File FileName="../../LinkedListBest/LinkedListBest/Program.cs" Line="1" Column="1" />
+      <File FileName="TestTrees/Test.cs" Line="30" Column="26" />
+      <File FileName="../../LinkedListBest/LinkedListBest/Chain.cs" Line="7" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinkedListBest" expanded="True">
+            <Node name="LinkedListBest" expanded="True">
+              <Node name="Chain.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="TreeSearch" expanded="True">
+            <Node name="TestTrees" expanded="True" />
+            <Node name="TreeSearch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+    <Watch file="../../../DFS.cs" line="16" offsetX="504" offsetY="285" expression="toStart" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TreeSearch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

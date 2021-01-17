@@ -1,0 +1,5 @@
+/home/ushakova/Projects/TestHelloWorld/TestHelloWorld/bin/Debug/TestHelloWorld.exe
+/home/ushakova/Projects/TestHelloWorld/TestHelloWorld/bin/Debug/TestHelloWorld.pdb
+/home/ushakova/Projects/TestHelloWorld/TestHelloWorld/obj/x86/Debug/TestHelloWorld.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TestHelloWorld/TestHelloWorld/obj/x86/Debug/TestHelloWorld.exe
+/home/ushakova/Projects/TestHelloWorld/TestHelloWorld/obj/x86/Debug/TestHelloWorld.pdb

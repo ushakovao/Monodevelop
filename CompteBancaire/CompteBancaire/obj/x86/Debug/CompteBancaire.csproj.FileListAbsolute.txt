@@ -1,0 +1,5 @@
+/home/ushakova/Projects/CompteBancaire/CompteBancaire/bin/Debug/CompteBancaire.exe
+/home/ushakova/Projects/CompteBancaire/CompteBancaire/bin/Debug/CompteBancaire.pdb
+/home/ushakova/Projects/CompteBancaire/CompteBancaire/obj/x86/Debug/CompteBancaire.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/CompteBancaire/CompteBancaire/obj/x86/Debug/CompteBancaire.exe
+/home/ushakova/Projects/CompteBancaire/CompteBancaire/obj/x86/Debug/CompteBancaire.pdb

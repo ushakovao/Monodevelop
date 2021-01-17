@@ -1,0 +1,6 @@
+/home/ushakova/Projects/Generics/Generics/bin/Debug/Generics.exe
+/home/ushakova/Projects/Generics/Generics/bin/Debug/Generics.pdb
+/home/ushakova/Projects/Generics/Generics/obj/x86/Debug/Generics.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/Generics/Generics/obj/x86/Debug/Generics.exe
+/home/ushakova/Projects/Generics/Generics/obj/x86/Debug/Generics.pdb
+/home/ushakova/Projects/Generics/Generics/obj/x86/Debug/Generics.csprojAssemblyReference.cache

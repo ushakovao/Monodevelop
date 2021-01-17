@@ -1,0 +1,6 @@
+/home/ushakova/Projects/Threads/Threads/bin/Debug/Threads.exe
+/home/ushakova/Projects/Threads/Threads/bin/Debug/Threads.pdb
+/home/ushakova/Projects/Threads/Threads/obj/x86/Debug/Threads.csprojAssemblyReference.cache
+/home/ushakova/Projects/Threads/Threads/obj/x86/Debug/Threads.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/Threads/Threads/obj/x86/Debug/Threads.exe
+/home/ushakova/Projects/Threads/Threads/obj/x86/Debug/Threads.pdb

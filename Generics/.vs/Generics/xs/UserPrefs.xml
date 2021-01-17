@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{79EBFC77-23B2-40F9-8584-08AB4FD87115}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TPGenerics/TPGenerics/Program.cs">
+    <Files>
+      <File FileName="../Interfaces/Interfaces/Program.cs" Line="1" Column="1" />
+      <File FileName="../Interfaces/Interfaces/IAnimal.cs" Line="6" Column="27" />
+      <File FileName="../TPGenerics/TPGenerics/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generics" expanded="True" />
+          <Node name="Interfaces" expanded="True">
+            <Node name="Interfaces" expanded="True" />
+          </Node>
+          <Node name="TPGenerics" expanded="True">
+            <Node name="TPGenerics" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

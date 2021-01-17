@@ -1,0 +1,3 @@
+/home/ushakova/Projects/TestUnity/TestUnity/bin/Release/TestUnity.exe
+/home/ushakova/Projects/TestUnity/TestUnity/obj/x86/Release/TestUnity.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TestUnity/TestUnity/obj/x86/Release/TestUnity.exe

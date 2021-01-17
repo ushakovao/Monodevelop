@@ -1,0 +1,11 @@
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/bin/Debug/TestTrees.dll
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/bin/Debug/TestTrees.pdb
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/bin/Debug/nunit.framework.dll
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/bin/Debug/TreeSearch.exe
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/bin/Debug/TreeSearch.pdb
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/bin/Debug/nunit.framework.xml
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/obj/Debug/TestTrees.csprojAssemblyReference.cache
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/obj/Debug/TestTrees.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/obj/Debug/TestTrees.csproj.CopyComplete
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/obj/Debug/TestTrees.dll
+/home/ushakova/Projects/TreeSearch/TreeSearch/TestTrees/obj/Debug/TestTrees.pdb

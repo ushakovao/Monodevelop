@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{13342C82-1815-4D10-81F2-174D63B5184B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testSG/LinkedList.cs">
+    <Files>
+      <File FileName="testSG/Program.cs" Line="13" Column="1" />
+      <File FileName="testSG/ElementOfList.cs" Line="11" Column="1" />
+      <File FileName="testSG/LinkedList.cs" Line="55" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testSG" expanded="True">
+            <Node name="testSG" expanded="True">
+              <Node name="LinkedList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testSG FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/ushakova/Projects/Interfaces/Interfaces/obj/x86/Debug/Interfaces.csprojAssemblyReference.cache
+/home/ushakova/Projects/Interfaces/Interfaces/obj/x86/Debug/Interfaces.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/Interfaces/Interfaces/bin/Debug/Interfaces.exe
+/home/ushakova/Projects/Interfaces/Interfaces/bin/Debug/Interfaces.pdb
+/home/ushakova/Projects/Interfaces/Interfaces/obj/x86/Debug/Interfaces.exe
+/home/ushakova/Projects/Interfaces/Interfaces/obj/x86/Debug/Interfaces.pdb

@@ -1,0 +1,6 @@
+/home/ushakova/Projects/Test/Test/bin/Debug/Test.exe
+/home/ushakova/Projects/Test/Test/bin/Debug/Test.pdb
+/home/ushakova/Projects/Test/Test/obj/x86/Debug/Test.csprojAssemblyReference.cache
+/home/ushakova/Projects/Test/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/Test/Test/obj/x86/Debug/Test.exe
+/home/ushakova/Projects/Test/Test/obj/x86/Debug/Test.pdb

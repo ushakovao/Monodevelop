@@ -1,0 +1,6 @@
+/home/ushakova/Projects/TP_Generics/TP_Generics/obj/x86/Debug/TP_Generics.csprojAssemblyReference.cache
+/home/ushakova/Projects/TP_Generics/TP_Generics/obj/x86/Debug/TP_Generics.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TP_Generics/TP_Generics/bin/Debug/TP_Generics.exe
+/home/ushakova/Projects/TP_Generics/TP_Generics/bin/Debug/TP_Generics.pdb
+/home/ushakova/Projects/TP_Generics/TP_Generics/obj/x86/Debug/TP_Generics.exe
+/home/ushakova/Projects/TP_Generics/TP_Generics/obj/x86/Debug/TP_Generics.pdb

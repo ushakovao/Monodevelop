@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9C926EF7-64F7-49AB-81D2-24867A407A81}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Dog.cs">
+    <Files>
+      <File FileName="../TreeSearch/TreeSearch/Program.cs" Line="57" Column="18" />
+      <File FileName="../Threads/Threads/Program.cs" Line="6" Column="5" />
+      <File FileName="../TreeSearch/TreeSearch/Tree.cs" Line="1" Column="1" />
+      <File FileName="../TreeSearch/TreeSearch/DFS.cs" Line="42" Column="14" />
+      <File FileName="../TestHelloWorld/TestHelloWorld/Program.cs" Line="79" Column="35" />
+      <File FileName="Interfaces/IAnimal.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/Dog.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interfaces" expanded="True">
+            <Node name="Interfaces" expanded="True">
+              <Node name="Dog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interfaces FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

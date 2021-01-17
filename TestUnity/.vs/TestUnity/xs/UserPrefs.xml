@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C916F0CA-C83E-4CAC-8CD2-03645621CFC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DivideTest/Test.cs">
+    <Files>
+      <File FileName="TestUnity/Program.cs" Line="1" Column="1" />
+      <File FileName="TestUnity/Divide.cs" Line="62" Column="18" />
+      <File FileName="DivideTest/Test.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestUnity" expanded="True">
+            <Node name="DivideTest" expanded="True">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+            <Node name="TestUnity" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.TestUnity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{75213C19-CC03-4B8C-A5BC-F4BB28EF699D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TP_Generics/TP_Generics/Chainage.cs">
+    <Files>
+      <File FileName="../TP_Generics/TP_Generics/ListeEnchainee.cs" Line="1" Column="1" />
+      <File FileName="../TP_Generics/TP_Generics/Chainage.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompteBancaire" expanded="True" />
+          <Node />
+          <Node name="TreeSearch" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CompteBancaire PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

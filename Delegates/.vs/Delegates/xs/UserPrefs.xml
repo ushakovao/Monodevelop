@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AA0DD2BA-B33C-4928-8DC7-5650EA9ECFAE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegates/TriDeTable.cs">
+    <Files>
+      <File FileName="Delegates/Program.cs" Line="5" Column="20" />
+      <File FileName="Delegates/TriDeTable.cs" Line="27" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegates" expanded="True">
+            <Node name="Delegates" expanded="True">
+              <Node name="TriDeTable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/ushakova/Projects/Delegates/Delegates/bin/Debug/Delegates.exe
+/home/ushakova/Projects/Delegates/Delegates/bin/Debug/Delegates.pdb
+/home/ushakova/Projects/Delegates/Delegates/obj/x86/Debug/Delegates.csprojAssemblyReference.cache
+/home/ushakova/Projects/Delegates/Delegates/obj/x86/Debug/Delegates.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/Delegates/Delegates/obj/x86/Debug/Delegates.exe
+/home/ushakova/Projects/Delegates/Delegates/obj/x86/Debug/Delegates.pdb

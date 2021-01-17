@@ -1,0 +1,11 @@
+/home/ushakova/Projects/TestUnity/DivideTest/bin/Debug/DivideTest.dll
+/home/ushakova/Projects/TestUnity/DivideTest/bin/Debug/DivideTest.pdb
+/home/ushakova/Projects/TestUnity/DivideTest/bin/Debug/nunit.framework.dll
+/home/ushakova/Projects/TestUnity/DivideTest/bin/Debug/TestUnity.exe
+/home/ushakova/Projects/TestUnity/DivideTest/bin/Debug/TestUnity.pdb
+/home/ushakova/Projects/TestUnity/DivideTest/bin/Debug/nunit.framework.xml
+/home/ushakova/Projects/TestUnity/DivideTest/obj/Debug/DivideTest.csprojAssemblyReference.cache
+/home/ushakova/Projects/TestUnity/DivideTest/obj/Debug/DivideTest.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TestUnity/DivideTest/obj/Debug/DivideTest.csproj.CopyComplete
+/home/ushakova/Projects/TestUnity/DivideTest/obj/Debug/DivideTest.dll
+/home/ushakova/Projects/TestUnity/DivideTest/obj/Debug/DivideTest.pdb

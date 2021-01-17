@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E18D7CF0-8C2D-43B2-8EA0-0E157400F418}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JeuDesMonstres/MonstreFacile.cs">
+    <Files>
+      <File FileName="JeuDesMonstres/Program.cs" Line="10" Column="12" />
+      <File FileName="JeuDesMonstres/Joueur.cs" Line="23" Column="10" />
+      <File FileName="JeuDesMonstres/MonstreFacile.cs" Line="19" Column="50" />
+      <File FileName="JeuDesMonstres/MonstreDifficile.cs" Line="1" Column="1" />
+      <File FileName="JeuDesMonstres/De.cs" Line="12" Column="12" />
+      <File FileName="JeuDesMonstres/Monstre.cs" Line="3" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JeuDesMonstres" expanded="True">
+            <Node name="JeuDesMonstres" expanded="True">
+              <Node name="MonstreFacile.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JeuDesMonstres FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

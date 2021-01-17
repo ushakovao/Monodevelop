@@ -1,0 +1,6 @@
+/home/ushakova/Projects/TestUnity/TestUnity/bin/Debug/TestUnity.exe
+/home/ushakova/Projects/TestUnity/TestUnity/bin/Debug/TestUnity.pdb
+/home/ushakova/Projects/TestUnity/TestUnity/obj/x86/Debug/TestUnity.csprojAssemblyReference.cache
+/home/ushakova/Projects/TestUnity/TestUnity/obj/x86/Debug/TestUnity.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TestUnity/TestUnity/obj/x86/Debug/TestUnity.exe
+/home/ushakova/Projects/TestUnity/TestUnity/obj/x86/Debug/TestUnity.pdb

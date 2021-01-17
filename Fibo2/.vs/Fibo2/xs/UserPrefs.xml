@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DE30D0D9-3C9E-4EB6-821B-09637F3DEE6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fibo2/Program.cs">
+    <Files>
+      <File FileName="Fibo2/Program.cs" Line="8" Column="16" />
+      <File FileName="Fibo2/Fibo.cs" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fibo2" expanded="True">
+            <Node name="Fibo2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Fibo2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

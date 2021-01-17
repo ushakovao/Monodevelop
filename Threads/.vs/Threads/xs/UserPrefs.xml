@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{576BB2D2-B48E-4273-A82E-98B699F611D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Threads/Program.cs">
+    <Files>
+      <File FileName="../TreeSearch/TreeSearch/TreeNode.cs" Line="14" Column="1" />
+      <File FileName="../TreeSearch/TreeSearch/Program.cs" Line="57" Column="18" />
+      <File FileName="Threads/Program.cs" Line="6" Column="5" />
+      <File FileName="../TreeSearch/TreeSearch/Tree.cs" Line="1" Column="1" />
+      <File FileName="../TreeSearch/TreeSearch/DFS.cs" Line="42" Column="14" />
+      <File FileName="../TestHelloWorld/TestHelloWorld/Program.cs" Line="79" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+          <Node name="Threads" expanded="True">
+            <Node name="Threads" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Threads PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

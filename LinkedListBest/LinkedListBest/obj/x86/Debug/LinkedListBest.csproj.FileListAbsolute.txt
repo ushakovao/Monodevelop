@@ -1,0 +1,6 @@
+/home/ushakova/Projects/LinkedListBest/LinkedListBest/bin/Debug/LinkedListBest.exe
+/home/ushakova/Projects/LinkedListBest/LinkedListBest/bin/Debug/LinkedListBest.pdb
+/home/ushakova/Projects/LinkedListBest/LinkedListBest/obj/x86/Debug/LinkedListBest.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/LinkedListBest/LinkedListBest/obj/x86/Debug/LinkedListBest.exe
+/home/ushakova/Projects/LinkedListBest/LinkedListBest/obj/x86/Debug/LinkedListBest.pdb
+/home/ushakova/Projects/LinkedListBest/LinkedListBest/obj/x86/Debug/LinkedListBest.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_Generics", "TP_Generics\TP_Generics.csproj", "{306769B3-9261-4C2A-ACC3-506D72301906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306769B3-9261-4C2A-ACC3-506D72301906}.Debug|x86.ActiveCfg = Debug|x86
+		{306769B3-9261-4C2A-ACC3-506D72301906}.Debug|x86.Build.0 = Debug|x86
+		{306769B3-9261-4C2A-ACC3-506D72301906}.Release|x86.ActiveCfg = Release|x86
+		{306769B3-9261-4C2A-ACC3-506D72301906}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

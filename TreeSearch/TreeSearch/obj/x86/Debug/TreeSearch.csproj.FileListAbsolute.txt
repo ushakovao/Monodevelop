@@ -1,0 +1,6 @@
+/home/ushakova/Projects/TreeSearch/TreeSearch/bin/Debug/TreeSearch.exe
+/home/ushakova/Projects/TreeSearch/TreeSearch/bin/Debug/TreeSearch.pdb
+/home/ushakova/Projects/TreeSearch/TreeSearch/obj/x86/Debug/TreeSearch.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/TreeSearch/TreeSearch/obj/x86/Debug/TreeSearch.exe
+/home/ushakova/Projects/TreeSearch/TreeSearch/obj/x86/Debug/TreeSearch.pdb
+/home/ushakova/Projects/TreeSearch/TreeSearch/obj/x86/Debug/TreeSearch.csprojAssemblyReference.cache

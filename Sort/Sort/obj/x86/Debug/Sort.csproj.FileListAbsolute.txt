@@ -1,0 +1,6 @@
+/home/ushakova/Projects/Sort/Sort/bin/Debug/Sort.exe
+/home/ushakova/Projects/Sort/Sort/bin/Debug/Sort.pdb
+/home/ushakova/Projects/Sort/Sort/obj/x86/Debug/Sort.csprojAssemblyReference.cache
+/home/ushakova/Projects/Sort/Sort/obj/x86/Debug/Sort.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/Sort/Sort/obj/x86/Debug/Sort.exe
+/home/ushakova/Projects/Sort/Sort/obj/x86/Debug/Sort.pdb
