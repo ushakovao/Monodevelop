@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{FD6D1AF2-AEC0-476E-BA48-3953B88FB9D1}|Default">
+﻿<Properties StartupConfiguration="{D81FAB03-38A9-46DB-8073-7D7E9C7194F6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="QuickSort/QuickSort.cs">
     <Files>
-      <File FileName="QuickSort/QuickSort.cs" Line="15" Column="14" />
-      <File FileName="QuickSortTest/Test.cs" Line="22" Column="39" />
+      <File FileName="QuickSort/Program.cs" Line="1" Column="1" />
+      <File FileName="QuickSort/QuickSort.cs" Line="8" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,14 +11,15 @@
             <Node name="QuickSort" expanded="True">
               <Node name="QuickSort.cs" selected="True" />
             </Node>
-            <Node name="QuickSortTest" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.QuickSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.QuickSort FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

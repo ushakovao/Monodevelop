@@ -1,18 +1,23 @@
 ﻿<Properties StartupConfiguration="{01AAAF62-FE6B-4B0D-AC50-6D84AEB7126F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../LinkedListBest/LinkedListBest/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedListFinal/ListNode.cs">
     <Files>
-      <File FileName="LinkedListFinal/Program.cs" Line="1" Column="1" />
+      <File FileName="LinkedListFinal/Program.cs" Line="43" Column="53" />
       <File FileName="LinkedListFinal/ListNode.cs" Line="6" Column="1" />
-      <File FileName="LinkedListFinal/List.cs" Line="51" Column="1" />
-      <File FileName="../LinkedListBest/LinkedListBest/ChainNode.cs" Line="6" Column="1" />
-      <File FileName="../LinkedListBest/LinkedListBest/Chain.cs" Line="107" Column="1" />
-      <File FileName="../LinkedListBest/LinkedListBest/Program.cs" Line="20" Column="1" />
+      <File FileName="LinkedListFinal/List.cs" Line="169" Column="13" />
+      <File FileName="../LinkedListBest/LinkedListBest/ChainNode.cs" Line="13" Column="1" />
+      <File FileName="../LinkedListBest/LinkedListBest/Chain.cs" Line="71" Column="1" />
+      <File FileName="../LinkedListBest/LinkedListBest/Program.cs" Line="30" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LinkedListFinal" expanded="True" selected="True">
-            <Node name="LinkedListFinal" expanded="True" />
+          <Node name="LinkedListBest" expanded="True">
+            <Node name="LinkedListBest" expanded="True" />
+          </Node>
+          <Node name="LinkedListFinal" expanded="True">
+            <Node name="LinkedListFinal" expanded="True">
+              <Node name="ListNode.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -21,8 +26,11 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/Program.cs" relfile="LinkedListFinal/Program.cs" line="24" column="1" />
+      <Breakpoint file="/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/Program.cs" relfile="LinkedListFinal/Program.cs" line="43" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LinkedListFinal FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LinkedListFinal PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
