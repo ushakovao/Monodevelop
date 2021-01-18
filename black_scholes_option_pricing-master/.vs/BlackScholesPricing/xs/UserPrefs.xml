@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DA2E51FD-8196-4AB8-8260-27426450AAB6}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlackScholesPricing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackScholesPricing/PricerInterface.cs">
+    <Files>
+      <File FileName="BlackScholesPricing/Program.cs" Line="29" Column="51" />
+      <File FileName="BlackScholesPricing/Pricer.cs" Line="76" Column="36" />
+      <File FileName="BlackScholesPricing/Greeks.cs" Line="15" Column="17" />
+      <File FileName="BlackScholesPricing/GreeksInterface.cs" Line="1" Column="1" />
+      <File FileName="BlackScholesPricing/ImpliedVolatility.cs" Line="1" Column="1" />
+      <File FileName="BlackScholesPricing/PricerInterface.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlackScholesPricing" expanded="True">
+            <Node name="BlackScholesPricing" expanded="True">
+              <Node name="PricerInterface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

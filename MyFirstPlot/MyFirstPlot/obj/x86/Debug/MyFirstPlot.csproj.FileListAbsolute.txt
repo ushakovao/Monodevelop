@@ -1,0 +1,12 @@
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/MyFirstPlot.exe
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/MyFirstPlot.pdb
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/OxyPlot.dll
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/OxyPlot.GtkSharp.dll
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/OxyPlot.pdb
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/OxyPlot.xml
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/bin/Debug/OxyPlot.GtkSharp.pdb
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/obj/x86/Debug/MyFirstPlot.csprojAssemblyReference.cache
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/obj/x86/Debug/MyFirstPlot.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/obj/x86/Debug/MyFirstPlot.csproj.CopyComplete
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/obj/x86/Debug/MyFirstPlot.exe
+/home/ushakova/Projects/MyFirstPlot/MyFirstPlot/obj/x86/Debug/MyFirstPlot.pdb

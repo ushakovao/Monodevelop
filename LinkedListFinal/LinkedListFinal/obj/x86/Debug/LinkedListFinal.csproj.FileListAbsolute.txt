@@ -1,0 +1,6 @@
+/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/obj/x86/Debug/LinkedListFinal.csprojAssemblyReference.cache
+/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/obj/x86/Debug/LinkedListFinal.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/bin/Debug/LinkedListFinal.exe
+/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/bin/Debug/LinkedListFinal.pdb
+/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/obj/x86/Debug/LinkedListFinal.exe
+/home/ushakova/Projects/LinkedListFinal/LinkedListFinal/obj/x86/Debug/LinkedListFinal.pdb

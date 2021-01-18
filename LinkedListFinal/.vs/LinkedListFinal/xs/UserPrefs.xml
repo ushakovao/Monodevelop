@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{01AAAF62-FE6B-4B0D-AC50-6D84AEB7126F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../LinkedListBest/LinkedListBest/Program.cs">
+    <Files>
+      <File FileName="LinkedListFinal/Program.cs" Line="1" Column="1" />
+      <File FileName="LinkedListFinal/ListNode.cs" Line="6" Column="1" />
+      <File FileName="LinkedListFinal/List.cs" Line="51" Column="1" />
+      <File FileName="../LinkedListBest/LinkedListBest/ChainNode.cs" Line="6" Column="1" />
+      <File FileName="../LinkedListBest/LinkedListBest/Chain.cs" Line="107" Column="1" />
+      <File FileName="../LinkedListBest/LinkedListBest/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinkedListFinal" expanded="True" selected="True">
+            <Node name="LinkedListFinal" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LinkedListFinal FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

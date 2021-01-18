@@ -1,0 +1,6 @@
+/home/ushakova/Projects/black_scholes_option_pricing-master/BlackScholesPricing/bin/Debug/BlackScholesPricing.exe
+/home/ushakova/Projects/black_scholes_option_pricing-master/BlackScholesPricing/bin/Debug/BlackScholesPricing.pdb
+/home/ushakova/Projects/black_scholes_option_pricing-master/BlackScholesPricing/obj/x86/Debug/BlackScholesPricing.csprojAssemblyReference.cache
+/home/ushakova/Projects/black_scholes_option_pricing-master/BlackScholesPricing/obj/x86/Debug/BlackScholesPricing.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/black_scholes_option_pricing-master/BlackScholesPricing/obj/x86/Debug/BlackScholesPricing.exe
+/home/ushakova/Projects/black_scholes_option_pricing-master/BlackScholesPricing/obj/x86/Debug/BlackScholesPricing.pdb

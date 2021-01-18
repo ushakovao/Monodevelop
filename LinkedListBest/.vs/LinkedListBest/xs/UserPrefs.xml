@@ -1,35 +1,27 @@
 ﻿<Properties StartupConfiguration="{57F1736E-D4DE-4479-9A34-4D1D4A04FFA1}|Default">
   <MonoDevelop.Ide.ItemProperties.LinkedListBest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedListBest/Chain.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedListBest/Program.cs">
     <Files>
-      <File FileName="../TreeSearch/TreeSearch/TreeNode.cs" Line="26" Column="32" />
-      <File FileName="../TreeSearch/TreeSearch/Tree.cs" Line="19" Column="1" />
-      <File FileName="../TreeSearch/TreeSearch/Program.cs" Line="13" Column="1" />
-      <File FileName="../TreeSearch/TreeSearch/DFS.cs" Line="62" Column="33" />
-      <File FileName="LinkedListBest/Program.cs" Line="1" Column="1" />
-      <File FileName="../TreeSearch/TreeSearch/TestTrees/Test.cs" Line="30" Column="26" />
-      <File FileName="LinkedListBest/Chain.cs" Line="7" Column="33" />
+      <File FileName="../LinkedListFinal/LinkedListFinal/Program.cs" Line="1" Column="1" />
+      <File FileName="../LinkedListFinal/LinkedListFinal/ListNode.cs" Line="6" Column="1" />
+      <File FileName="../LinkedListFinal/LinkedListFinal/List.cs" Line="51" Column="1" />
+      <File FileName="LinkedListBest/ChainNode.cs" Line="6" Column="1" />
+      <File FileName="LinkedListBest/Chain.cs" Line="107" Column="1" />
+      <File FileName="LinkedListBest/Program.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LinkedListBest" expanded="True">
             <Node name="LinkedListBest" expanded="True">
-              <Node name="Chain.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
-          </Node>
-          <Node name="TreeSearch" expanded="True">
-            <Node name="TestTrees" expanded="True" />
-            <Node name="TreeSearch" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
-    <Watch file="../../../../TreeSearch/TreeSearch/DFS.cs" line="16" offsetX="504" offsetY="285" expression="toStart" liveUpdate="False" />
-  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

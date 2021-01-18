@@ -69,7 +69,6 @@ namespace LinkedListBest
 
             prev.Next = temp.Next;
 
-
         }
 
         public ChainNode<T> FindAtIndex(int index)
