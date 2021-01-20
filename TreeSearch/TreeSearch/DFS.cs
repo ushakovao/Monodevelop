@@ -14,19 +14,12 @@ namespace TreeSearch
             {
 
             visitedA.Add(toStart);
-
-                Console.WriteLine("Here goes the tree : " + toStart.data
-                             );
-
-
-   
+            Console.WriteLine("Here goes the tree : " + toStart);
             foreach (TreeNode t in tree.nodes)
             {
                 if (!(visitedA.Contains(t))) {           
                 DFS_search(tree, t);
-
-
-            }
+                }
             }
 
 

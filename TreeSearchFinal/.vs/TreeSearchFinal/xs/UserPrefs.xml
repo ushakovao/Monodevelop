@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{A88E0109-2068-42BC-85F3-D34A03EF0D48}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TreeSearch/Tree.cs">
+﻿<Properties StartupConfiguration="{45FC04FD-DDCC-406F-8658-3FDF98DBCBC3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TreeSearch/TreeSearch/Tree.cs">
     <Files>
-      <File FileName="TreeSearch/Tree.cs" Line="10" Column="1" />
-      <File FileName="../TreeSearchFinal/TreeSearchFinal/Tree.cs" Line="22" Column="7" />
-      <File FileName="../TreeSearchFinal/TreeSearchFinal/Search.cs" Line="20" Column="17" />
+      <File FileName="../TreeSearch/TreeSearch/Tree.cs" Line="10" Column="1" />
+      <File FileName="TreeSearchFinal/Tree.cs" Line="22" Column="7" />
+      <File FileName="TreeSearchFinal/Search.cs" Line="20" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,14 +22,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TreeSearchFinal FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
-    <Watch file="../../../TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
-    <Watch file="../../../TreeSearch/DFS.cs" line="16" offsetX="504" offsetY="285" expression="toStart" liveUpdate="False" />
+    <Watch file="../../../../TreeSearch/TreeSearch/Program.cs" line="47" offsetX="873" offsetY="874" expression="t.parent.data" liveUpdate="False" />
+    <Watch file="../../../../TreeSearch/TreeSearch/DFS.cs" line="16" offsetX="504" offsetY="285" expression="toStart" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TreeSearch PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

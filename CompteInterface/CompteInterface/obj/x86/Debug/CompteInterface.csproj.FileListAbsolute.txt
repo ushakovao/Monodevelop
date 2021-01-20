@@ -1,0 +1,6 @@
+/home/ushakova/Projects/CompteInterface/CompteInterface/bin/Debug/CompteInterface.exe
+/home/ushakova/Projects/CompteInterface/CompteInterface/bin/Debug/CompteInterface.pdb
+/home/ushakova/Projects/CompteInterface/CompteInterface/obj/x86/Debug/CompteInterface.csprojAssemblyReference.cache
+/home/ushakova/Projects/CompteInterface/CompteInterface/obj/x86/Debug/CompteInterface.csproj.CoreCompileInputs.cache
+/home/ushakova/Projects/CompteInterface/CompteInterface/obj/x86/Debug/CompteInterface.exe
+/home/ushakova/Projects/CompteInterface/CompteInterface/obj/x86/Debug/CompteInterface.pdb

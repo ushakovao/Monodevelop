@@ -6,7 +6,7 @@ namespace TreeSearch
     {
 
         public string data; //node data
-        public List<TreeNode> kids;//left child link
+        public List<TreeNode> kids;
         public TreeNode parent;//parent link
         public Tree tree;
 
@@ -39,19 +39,11 @@ namespace TreeSearch
                     toDelete.kids.RemoveAt(i);
                     kids.Remove(toDelete.kids[i]);
 
-
                 }
 
             }
             kids.Remove(toDelete);
-
-
-
-
         }
-
-
-
 
     }
 
